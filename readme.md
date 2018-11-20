@@ -8,11 +8,14 @@
 ###### mon premier repot
 
 # les listes 
-1.cinema
-1.theatres 
-1.jeux
+1. cinema
+1. theatres 
+1. jeux
 
-*le monde du cinemas
+* le monde du cinemas
+
 [cliqué ici](http://www.mamzouka.com/films/)
-<a name="ancre">
-[retour en haut](#stop)
+
+<a name="ancre"></a>
+
+[retour en haut](#top)
